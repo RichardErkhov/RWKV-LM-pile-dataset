@@ -1,6 +1,10 @@
 # RWKV-LM-pile-dataset
 pile dataset converted to binidx format for RWKV-LM using json2binidx_tool.
-
+parts:
+<ul>
+<li> <a href="https://www.kaggle.com/datasets/chelove4draste/rwkv-lm-pile-0jsonl"> 0.jsonl </a> 
+<li> <a href="https://www.kaggle.com/datasets/chelove4draste/rwkv-lm-pile-1jsonl"> 1.jsonl </a> 
+</ul>
 
 ```
 @article{pile,
