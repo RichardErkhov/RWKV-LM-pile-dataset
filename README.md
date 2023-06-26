@@ -1,11 +1,8 @@
 # RWKV-LM-pile-dataset
 pile dataset converted to binidx format for RWKV-LM using json2binidx_tool.
-parts:
+
 full upload: https://huggingface.co/datasets/RichardErkhov/RWKV-LM_pile_binidx_dataset
-<ul>
-<li> <a href="https://www.kaggle.com/datasets/chelove4draste/rwkv-lm-pile-0jsonl"> 0.jsonl </a> 
-<li> <a href="https://www.kaggle.com/datasets/chelove4draste/rwkv-lm-pile-1jsonl"> 1.jsonl </a> 
-</ul>
+
 
 ```
 @article{pile,
